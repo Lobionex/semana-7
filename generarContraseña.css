@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-size: 2.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5d0606;
+    height: 100vh;
+  }
+  div{
+    background: rgb(1,165,252);
+    background: radial-gradient(circle, rgba(1,165,252,1) 0%, rgba(32,255,9,1) 100%);
+    border-radius: 60px;
+    box-shadow: 0 0 10px;
+  }
+  
+  #password-generator {
+    max-width: 600px;
+  }  
